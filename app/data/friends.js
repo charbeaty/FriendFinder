@@ -31,7 +31,23 @@ var friends = [
         "2",
         "2"
 
-     ]}
+     ]},
+     {
+         name: "Jordan Biason",
+         photo: "",
+         scores:[
+            "5",
+            "1",
+            "2",
+            "4",
+            "3",
+            "4",
+            "1",
+            "3",
+            "2",
+            "2"
+         ]
+     }
 ];
 
 module.exports = friends;
